@@ -1,9 +1,9 @@
 # TODO-backend
 
-/api/auth/login
-post
-login:string, password:string
-
-/api/auth/register
-post
-login:string, password:string, email:string
+/api/auth/login<br>
+type: post<br>
+params: login:string, password:string<br>
+<br><br>
+/api/auth/register<br>
+type: post<br>
+params: login:string, password:string, email:string<br>
