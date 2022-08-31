@@ -2,11 +2,13 @@ const express = require("express");
 const config = require("./config.json");
 const cors = require("cors");
 const mongoose = require('mongoose');
-
+const router = require('./routers/router');
 const app = express();
+
 
 app.use(cors());
 app.use(express.json());
+app.use('/api', router);
 
 app.use(function (req, res, next) {
 

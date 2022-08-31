@@ -1,9 +1,10 @@
 {
     "server": {
-        "port": 6666
+        "port": 3222
     },
     "client":
     {
         "port": 3000
-    }
+    },
+    "secret": "wasdsafjhsdfuewsflshdflksvnxcvsjdhlksefhwelkgjhdsfkjhvkdbnvs,ndbvlwehgb"
 }
