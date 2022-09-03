@@ -35,6 +35,7 @@ const start = async () => {
         await mongoose.connect(`mongodb+srv://admin:admin@cluster0.7ffvmej.mongodb.net/?retryWrites=true&w=majority`);
         server.listen(config.server.port, () => {
             console.log(`http://localhost:${config.server.port}`);
+            console.log(`ws://localhost:${config.server.port}`);
         });
         Websocket.main(io);
     } catch (e) {   
