@@ -1,10 +1,16 @@
 {
-    "server": {
-        "port": 3222
-    },
-    "client":
-    {
-        "port": 3000
-    },
-    "secret": "wasdsafjhsdfuewsflshdflksvnxcvsjdhlksefhwelkgjhdsfkjhvkdbnvs,ndbvlwehgb"
+  "server": {
+    "port": 3222
+  },
+  "client": {
+    "port": 3000
+  },
+  "secret": "wasdsafjhsdfuewsflshdflksvnxcvsjdhlksefhwelkgjhdsfkjhvkdbnvs,ndbvlwehgb",
+  "mailer": {
+    "email": "vladchornyi887@gmail.com",
+    "password": "vE4-@F3xxagvYPK",
+    "service": "Outlook365",
+    "host": "smtp.office365.com",
+    "port": 587
+  }
 }

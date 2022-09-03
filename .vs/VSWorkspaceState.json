@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\models",
+    "\\src\\routers",
+    "\\src\\validation"
+  ],
+  "SelectedNode": "\\src\\validation\\auth.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,3 @@
+D:\Projects\todo-backend\obj\Debug\todo-backend.njsproj.AssemblyReference.cache
+D:\Projects\todo-backend\obj\Debug\todo-backend.njsproj.CoreCompileInputs.cache
+D:\Projects\todo-backend\bin\Microsoft.NodejsTools.WebRole.dll
